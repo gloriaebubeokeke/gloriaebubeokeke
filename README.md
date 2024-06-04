@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Gloria Okeke
 - 👩‍💻 I love coding, being creative and writing about what I learn
 - 🧡 I'm available for researching and publishing helpful technical content on Javascript, React, Solidity and related projects
-- 💊 As a Pharmacist in tech, I also look to solve medical-related problems through technology. Interesting init?  
+- 💊 As a Pharmacist in tech, I also look to solve medical-related problems through technology.   
 - 🚀 I look to contribute better on GitHub projects
 - 📫 Let's have a chat okekeebubechukwu1@gmail.com
